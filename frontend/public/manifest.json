@@ -1,0 +1,17 @@
+{
+  "short_name": "نظام إدارة المستشفى",
+  "name": "Hospital Management System - نظام إدارة المستشفى",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff",
+  "lang": "ar",
+  "dir": "rtl"
+}
